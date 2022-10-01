@@ -1,0 +1,6 @@
+.ion-page{
+    overflow: scroll!important;
+}
+.my-ion-app{
+    overflow: hidden!important;
+}
